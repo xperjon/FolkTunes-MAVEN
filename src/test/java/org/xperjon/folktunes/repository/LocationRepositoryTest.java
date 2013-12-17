@@ -1,4 +1,4 @@
-package se.blinfo.folktunes.repository;
+package org.xperjon.folktunes.repository;
 
 import org.junit.Test;
 import static org.junit.Assert.*;

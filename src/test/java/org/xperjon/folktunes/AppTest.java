@@ -1,4 +1,4 @@
-package se.blinfo.folktunes;
+package org.xperjon.folktunes;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

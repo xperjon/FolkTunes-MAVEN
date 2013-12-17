@@ -1,4 +1,4 @@
-package se.blinfo.folktunes.repository;
+package org.xperjon.folktunes.repository;
 
 import junit.framework.TestCase;
 import org.junit.Test;
